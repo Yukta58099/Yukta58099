@@ -3,10 +3,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukta58099" alt="yukta58099" /></a> </p>
 
-                                                 - 👋 I am Currently learning AWS 
-                                                 - 💭 I am always up for hackathons, Lets git it done !
-                                                 - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
-                                                 - ⚡ Fun fact : I love Travelling and meeting new people !
+                                            - 👋 I am Currently learning AWS 
+                                            - 💭 I am always up for hackathons, Lets git it done !
+                                            - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
+                                            - ⚡ Fun fact : I love Travelling and meeting new people !
 
 <p align="center">
 </p>
