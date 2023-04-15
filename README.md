@@ -7,7 +7,7 @@
  - 💭 I am always up for hackathons, Lets git it done !
  - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
  - ⚡ Fun fact : I love Travelling and meeting new people !
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
