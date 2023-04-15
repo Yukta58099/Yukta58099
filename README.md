@@ -8,7 +8,6 @@
  - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
  - ⚡ Fun fact : I love Travelling and meeting new people !
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,6 +17,16 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukta58099&show_icons=true&locale=en&layout=compact" alt="yukta58099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat2308&" alt="yukta58099" /></p>
+
+<div align="center">
+<div><h3>Lets connect 😃</h3></div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joshithgopidi.work@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yukta270/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/josre)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yukta-garg-33016b249/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yukta garg)
+</div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-yukta58099 &style=flat-square&color=232323">
 <hr>
