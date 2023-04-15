@@ -1,12 +1,7 @@
 ## <p align="center">Hello there,</p>
-
-<a href=Yukta garg">
-<img src="./assets/banner.png" />
-</a>
-
-
 > ## I'm Yukta garg. 
 > CS Undergrad, **Data Analyst**, **Cloud Computing** and an avid learner.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Yukta58099" alt="Yukta58099" /></a> </p>
 
  - 👋 I am Currently learning AWS 
  - 💭 I am always up for hackathons, Lets git it done !
