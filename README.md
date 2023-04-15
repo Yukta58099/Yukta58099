@@ -1,20 +1,19 @@
 ## <p align="center">Hello there,</p>
 
-<a href="https://joshith.vercel.app">
+<a href=Yukta garg">
 <img src="./assets/banner.png" />
 </a>
 <div align="center"><a href="https://joshith.vercel.app">
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=JOS-RE&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </a></div>
 
-> ## I'm Joshith Reddy Gopidi. 
-> CS Undergrad, **Developer**, **Designer** and an avid learner.
+> ## I'm Yukta garg. 
+> CS Undergrad, **Data Analyst**, **Cloud Computing** and an avid learner.
 
- - 👋 I am Currently learning Backend Web-dev and UI/UX designing
- - 🌐 I am Exploring Open source projects while building on Web-Dev and Python. 
+ - 👋 I am Currently learning AWS 
  - 💭 I am always up for hackathons, Lets git it done !
- - 💬 Ask me about Frontend Web-Dev and Figma Designing :) 
- - ⚡ Fun fact : I love networking and meeting new people !
+ - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
+ - ⚡ Fun fact : I love Travelling and meeting new people !
 
  
 <div>
@@ -40,9 +39,9 @@
 
 
 
-|     Web-Dev   | Languages |Cloud + Frameworks| Tools          |
+|     Data Analytics   | Languages |Cloud + Frameworks| Tools          |
 |       ---     |    ---    |    ---     |    ---    |
-|       <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,sass,bootstrap,js" />     |    <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql" />    |    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nextjs,flask" />     |    <img src="https://skillicons.dev/icons?i=figma,ai,vercel,heroku,git,github,vscode" />    |
+|       <img src="https://skillicons.dev/icons?i=" />     |    <img src="https://skillicons.dev/icons?i=py,java,,mysql" />    |    <img src="https://skillicons.dev/icons?i=aws,azure" />     |    <img src="https://skillicons.dev/icons?i=IntelliJ IDEA,Pycharm,jupiterBook,github,vscode" />    |
 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-JOS-RE&style=flat-square&color=232323">
