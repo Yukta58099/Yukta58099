@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yukta Garg</h1>
 <h3 align="center">CS Undergrad, Data Analyst and an avid learner.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukta58099" alt="yukta58099" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukta58099" alt="yukta58099" /></a> </p>
 
  - 👋 I am Currently learning AWS 
  - 💭 I am always up for hackathons, Lets git it done !
  - 💬 Ask me about Frontend Data Analytics and Cloud computing :) 
  - ⚡ Fun fact : I love Travelling and meeting new people !
 
-<p align="left">
+<p align="center">
 </p>
 
 <div>
-<!-- <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=yukta58099&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
+<!-- <img src="https://github-readme-activity-graph-1.yukta3.repl.co/graph?username=yukta58099&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
 </div>
 <div align="center">
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=yukta58099&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Yukta+Github+Stats" alt="Yukta  Github stats" />
