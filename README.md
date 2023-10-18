@@ -1,4 +1,4 @@
-<h1 align="center">Hy  👋, I'm Yukta</h1>
+<h1 align="center">Hy  👋, I'm Yukt</h1>
 <h3 align="center">CS Undergrad, Data Analyst and an avid learner.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukta58099" alt="yukta58099" /></a> </p>
